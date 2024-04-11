@@ -11,7 +11,7 @@
 
 Component A is an Antora documentation component. This is a slightly modified version of the Antora Demo site. The playbook and instructions for the Demo site are located in the {uri-site-readme}[Demo site playbook project].
 
-Added this line as a test.
+Added this line as a test. And then changed it on GitHub.
 
 == Resources
 
